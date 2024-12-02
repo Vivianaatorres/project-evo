@@ -972,3 +972,7 @@ export const StatusIcon = {
 ## <a name="links">🔗 Assets</a>
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+
+## <a name="#">🔯 Aditional</a>
+
+Deploy in Vercel and use to service SMS Twilio
