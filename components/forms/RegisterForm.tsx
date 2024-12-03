@@ -293,7 +293,7 @@ const RegisterForm = ({ user }: { user: User }) => {
               control={form.control}
               name="familyMedicalHistory"
               label="Historia médica familiar (Si es relevante)"
-              placeholder="La madre tiene Herpes, el padre tiene Sifilis."
+              placeholder="La madre tiene asma, el padre tiene tension alta."
             />
 
             <CustomFormField
